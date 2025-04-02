@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gabriel<br>🎓 Computer Science Student at Paul Sabatier University (UT3)<br>💻 Tech Stack: Python | C | OCaml | Java<br>🤖 Projects:<br><br>Discord Game Bot – Built a feature-rich bot with a large SQL database and many active users.<br>🌍 Contributor to Ingress Wayfarer – Actively involved in reviewing and improving in-game locations.<br>🚀 Passionate about software development, databases, and game mechanics.
+👋 Hi, I'm Gabriel<br>🎓 Computer Science Student at Toulouse III University (UT3)<br>💻 Tech Stack: Python | C | OCaml | Java<br>🤖 Projects:<br><br>Discord Game Bot – Built a feature-rich bot with a large SQL database and many active users.<br>🌍 Contributor to Ingress Wayfarer – Actively involved in reviewing and improving in-game locations.<br>🚀 Passionate about software development, databases, and game mechanics.
 
 
 ## 🌐 Socials:
