@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gabriel<br>🎓 Computer Science Student at Toulouse III University (UT3)<br>🤖 Project : Discord Game Bot<br>– Built a feature-rich bot with a large SQL database and many active users.<br>🚀 Passionate about software development, databases, and game mechanics.
+👋 Hi, I'm Gabriel<br>🎓 Computer Science Student at Toulouse III University (UT3)<br>🤖 Main Project – Discord Game Bot<br>• Designed and built a feature-rich bot with a large SQL database <br>• Handles complex game mechanics and has many active users.<br>🚀 Curious by nature and passionate about understanding how complex systems work — from game mechanics and backend development to the world of cryptocurrencies and decentralized technologies.
 
 
 ## 🌐 Socials:
